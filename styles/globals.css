@@ -39,3 +39,13 @@ a {
     letter-spacing: 3px;
     color: white;
 }
+
+.trending {
+    height: auto;
+    background: url('../assets/images/firework.png');
+}
+
+.movieImage {
+    height: auto;
+    background: transparent;
+}
