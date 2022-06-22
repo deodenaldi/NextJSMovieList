@@ -1,51 +1,55 @@
 html,
 body {
-    padding: 0;
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	padding: 0;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
-    color: inherit;
-    text-decoration: none;
+	color: inherit;
+	text-decoration: none;
 }
 
 * {
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .myBG {
-    height: 100vh;
-    background: url('/assets/images/firework.png');
+	height: 100vh;
+	background: url("/assets/images/firework.png");
 }
 
 .htmlAll {
-    background-color: #f6ddb9;
+	background-color: #f6ddb9;
 }
 
 .intro {
-    height: 30%;
-    background: tomato;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+	height: 30%;
+	background: tomato;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .title {
-    font-size: 3rem;
-    font-weight: 800;
-    line-height: 1;
-    text-shadow: 2px 2px black;
-    letter-spacing: 3px;
-    color: white;
+	font-size: 3rem;
+	font-weight: 800;
+	line-height: 1;
+	text-shadow: 2px 2px black;
+	letter-spacing: 3px;
+	color: white;
 }
 
 .trending {
-    height: auto;
-    background: url('../assets/images/firework.png');
+	height: auto;
+	background: url("../assets/images/firework.png");
 }
 
 .movieImage {
-    height: auto;
-    background: transparent;
+	height: auto;
+	background: transparent;
+}
+
+.movieWrapper {
 }
